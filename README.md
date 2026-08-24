@@ -30,7 +30,7 @@ An AI-powered Retrieval-Augmented Generation (RAG) assistant that answers questi
 
 ![Chat Interface](assets/RagChat.jpg)
 
-#### Retrieved Context
+#### Evaluation
 
 ![Evaluation](assets/RagEval.jpg)
 
