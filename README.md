@@ -17,12 +17,12 @@ An AI-powered Retrieval-Augmented Generation (RAG) assistant that answers questi
 - ChromaDB
 - OpenAI / HuggingFace Embeddings
 - Gradio
-- LiteLLM
+- LLM - OpenAI (`gpt-4.1-nano`)
 - NumPy
 
 ## Demo
 
-(Add screenshots or a short demo GIF/video here.)
+🎥 **Project Demo:** [Watch the demo](assets/pro.mp4)
 
 ## Setup
 
