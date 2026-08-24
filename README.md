@@ -24,6 +24,16 @@ An AI-powered Retrieval-Augmented Generation (RAG) assistant that answers questi
 
 🎥 **Project Demo:** [Watch the demo](assets/pro.mp4)
 
+## Screenshots
+
+#### Chat Interface
+
+![Chat Interface](assets/RagChat.jpg)
+
+#### Retrieved Context
+
+![Evaluation](assets/RagEval.jpg)
+
 ## Setup
 
 ### 1. Initialize the project
