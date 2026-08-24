@@ -34,6 +34,11 @@ An AI-powered Retrieval-Augmented Generation (RAG) assistant that answers questi
 
 ![Evaluation](assets/RagEval.jpg)
 
+### Visualization
+
+![2DVisualization](assets/2Dvis.jpg)
+![3DVisualization](assets/3Dvis.jpg)
+
 ## Setup
 
 ### 1. Initialize the project
