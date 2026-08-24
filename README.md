@@ -1,6 +1,6 @@
 # Company Knowledge Worker - RAG
 
-An AI-powered Retrieval-Augmented Generation (RAG) assistant that answers questions using a company's internal knowledge base. The system retrieves the most relevant document chunks and uses LLM to generate grounded responses.
+An AI-powered Retrieval-Augmented Generation (RAG) assistant that answers questions using a company's internal knowledge base. The system retrieves the most relevant document chunks and uses an LLM to generate grounded responses. The system also includes an evaluation framework to assess retrieval performance and response quality.
 
 ## Features
 
